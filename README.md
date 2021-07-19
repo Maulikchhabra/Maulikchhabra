@@ -1,11 +1,13 @@
 <h1 align="center">Hi 👋, I'm Maulik Chhabra</h1>
 <h3 align="center">I have completed my pre-final year of graduadtion in Computer Science with Specialization in DevOps.</h3>
 
-- I worked on building a backend in Django for a webapp. [Appointment Scheduler](https://github.com/Xebia-Project-XE-INT-003/Workingcode)
+[![Maulik's GitHub stats](https://github-readme-stats.vercel.app/api?username=Maulikchhabra)](https://github.com/Maulikchhabra/github-readme-stats) 
+
+- I worked on building a backend in Django for a webapp. Link:[Appointment Scheduler](https://github.com/Xebia-Project-XE-INT-003/Workingcode)
 
 - I’m currently learning **Cloud Computing and different Cloud Providers.**
 
-- I also worked on customizing Apache Web Server [Apache Web Server Customization](https://github.com/Maulikchhabra/Apache-Web-Server-Customization)
+- I also worked on customizing Apache Web Server. Link:[Apache Web Server Customization](https://github.com/Maulikchhabra/Apache-Web-Server-Customization)
 
 - 📫 How to reach me **maulikchhabra@gmail.com**
 

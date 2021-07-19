@@ -3,11 +3,13 @@
 
 [![Maulik's GitHub stats](https://github-readme-stats.vercel.app/api?username=Maulikchhabra)](https://github.com/Maulikchhabra/github-readme-stats) 
 
-- I worked on building a backend in Django for a webapp. Link:[Appointment Scheduler](https://github.com/Xebia-Project-XE-INT-003/Workingcode)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Maulikchhabra&layout=compact)](https://github.com/Maulikchhabra/github-readme-stats) 
+
+- I worked on building a backend in Django for a webapp. Link: [Appointment Scheduler](https://github.com/Xebia-Project-XE-INT-003/Workingcode)
 
 - I’m currently learning **Cloud Computing and different Cloud Providers.**
 
-- I also worked on customizing Apache Web Server. Link:[Apache Web Server Customization](https://github.com/Maulikchhabra/Apache-Web-Server-Customization)
+- I also worked on customizing Apache Web Server. Link: [Apache Web Server Customization](https://github.com/Maulikchhabra/Apache-Web-Server-Customization)
 
 - 📫 How to reach me **maulikchhabra@gmail.com**
 

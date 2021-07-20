@@ -5,11 +5,10 @@
     <img src="workspace.png" width="350" height="350">
 </p>  
 
-<p align="center">
-      [![Maulik's GitHub stats](https://github-readme-stats.vercel.app/api?username=Maulikchhabra)](https://github.com/Maulikchhabra/github-readme-stats) 
 
-      [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Maulikchhabra&layout=compact)](https://github.com/Maulikchhabra/github-readme-stats)
-</p>  
+  [![Maulik's GitHub stats](https://github-readme-stats.vercel.app/api?username=Maulikchhabra)](https://github.com/Maulikchhabra/github-readme-stats) 
+
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Maulikchhabra&layout=compact)](https://github.com/Maulikchhabra/github-readme-stats)  
 
 - I worked on building a backend in Django for a webapp. Link: [Appointment Scheduler](https://github.com/Xebia-Project-XE-INT-003/Workingcode)
 

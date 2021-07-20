@@ -1,6 +1,8 @@
 <h1 align="center">Hi 👋, I'm Maulik Chhabra</h1>
 <h3 align="center">I have completed my pre-final year of graduadtion in Computer Science with Specialization in DevOps.</h3>
 
+<img align="center" src="https://storyset.com/illustration/nerd/amico#FF725EFF&hide=&hide=complete">
+
 [![Maulik's GitHub stats](https://github-readme-stats.vercel.app/api?username=Maulikchhabra)](https://github.com/Maulikchhabra/github-readme-stats) 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Maulikchhabra&layout=compact)](https://github.com/Maulikchhabra/github-readme-stats) 

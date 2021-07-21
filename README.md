@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Maulik Chhabra</h1>
-<h3 align="center">I have completed my pre-final year of graduadtion in Computer Science with Specialization in DevOps.</h3>
+<h3 align="center">I have completed my pre-final year of graduation in Computer Science with Specialization in DevOps.</h3>
 
 <p align="center">
     <img src="workspace.png" width="350" height="350">
@@ -12,7 +12,7 @@
 
 - I worked on building a backend in Django for a webapp. Link: [Appointment Scheduler](https://github.com/Xebia-Project-XE-INT-003/Workingcode)
 
-- I’m currently learning **Cloud Computing and different Cloud Providers.**
+- I’m currently learning **Cloud Computing and DevOps.**
 
 - I also worked on customizing Apache Web Server. Link: [Apache Web Server Customization](https://github.com/Maulikchhabra/Apache-Web-Server-Customization)
 

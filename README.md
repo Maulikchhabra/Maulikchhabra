@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Maulik Chhabra</h1>
-<h3 align="center">I have completed my pre-final year of graduation in Computer Science with Specialization in DevOps.</h3>
+<h3 align="center">I have completed my graduation in Computer Science with Specialization in DevOps and working as an Associate Technical Consultant at Salesforce.</h3>
 
 <p align="center">
     <img src="workspace.png" width="350" height="350">
@@ -12,7 +12,7 @@
 
 - I worked on building a backend in Django for a webapp. Link: [Appointment Scheduler](https://github.com/Xebia-Project-XE-INT-003/Workingcode)
 
-- I’m currently learning **Cloud Computing and DevOps.**
+- I have hands on experience with Clouds like AWS,GCP and various DevOps technologies.
 
 - I also worked on customizing Apache Web Server. Link: [Apache Web Server Customization](https://github.com/Maulikchhabra/Apache-Web-Server-Customization)
 
@@ -21,7 +21,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/chhabramaulik" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="chhabramaulik" height="30" width="40" /></a>
-<a href="https://www.linkedin.com/in/maulik-chhabra-3b65a8185/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="maulik chhabra" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/maulik-chhabra/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="maulik chhabra" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>

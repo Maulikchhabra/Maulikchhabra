@@ -10,7 +10,7 @@
 
   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Maulikchhabra&layout=compact)](https://github.com/Maulikchhabra/github-readme-stats)  
 
-- I worked on building a backend in Django for a webapp. Link: [Appointment Scheduler](https://github.com/Xebia-Project-XE-INT-003/Workingcode)
+- I worked on building a backend in Django for a webapp with association to Xebia. Link: [Appointment Scheduler](https://github.com/Xebia-Project-XE-INT-003/Workingcode)
 
 - I have hands on experience with Clouds like AWS,GCP and various DevOps technologies.
 
